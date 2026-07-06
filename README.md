@@ -1,6 +1,13 @@
 ## [**MMA: Multi-Modal Adapter for Vision-Language Models (CVPR2024)**](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_MMA_Multi-Modal_Adapter_for_Vision-Language_Models_CVPR_2024_paper.pdf)<br>
 [Lingxiao Yang](https://zjjconan.github.io/), [Ru-Yuan Zhang](https://ruyuanzhang.github.io/), [Yanchen Wang](https://ppwangyc.github.io/), [Xiaohua Xie](https://cse.sysu.edu.cn/content/2478)
 
+### 🔥🔥 New work
+The extention of this work has been published at T-PAMI2026 that may interest you: <br>
+> MMA++: Effective Multi-Modal Adaptation for Vision-Language Models. <br>
+> Lingxiao Yang, Ru-Yuan Zhang, Yanchen Wang and Xiaohua Xie <br>
+> IEEE Transactions on Pattern Analysis and Machine Intelligence, 2026 <br>
+> [[Paper](https://ieeexplore.ieee.org/document/11534926/)] [[Code](https://github.com/ZjjConan/VLM-MMApp)]
+
 ### 🔥 New work
 Another related work has been published at IJCV2025 that may interest you: <br>
 > Learning with Enriched Inductive Biases for Vision-Language Models. <br>
